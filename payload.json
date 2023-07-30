@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "logLevel": "info",
+    "print_tags": true,
+    "tags": "hello world",
+    "environment": "staging"
+  }
+}
